@@ -1,13 +1,13 @@
 # World's Hardest GBA Game
 
 ## Purpose
-C program designed to run the [mGBA](https://mgba.io/downloads.html) emulator
-Inspiration to web game - World's Hardest Game
+C program designed to run on the [mGBA](https://mgba.io/downloads.html) emulator\
+Inspiration to web game - World's Hardest Game\
 Assignment for CS 2110 - Spring 22
 
 ## Installation
-Clone repo
-Load ROM - game.gba - with any emulator (Recommend mGBA, link above)
+Clone repo\
+Load ROM - `game.gba` - with any emulator (Recommend mGBA, link above)
 
 C source code are here along with a Makefile if you'd like to modify / recompile code
 
